@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/store-sample-react/static/css/main.e876dca2.chunk.css",
+    "main.js": "/store-sample-react/static/js/main.a5fc71bb.chunk.js",
+    "main.js.map": "/store-sample-react/static/js/main.a5fc71bb.chunk.js.map",
+    "runtime-main.js": "/store-sample-react/static/js/runtime-main.e923d09d.js",
+    "runtime-main.js.map": "/store-sample-react/static/js/runtime-main.e923d09d.js.map",
+    "static/css/2.658248ec.chunk.css": "/store-sample-react/static/css/2.658248ec.chunk.css",
+    "static/js/2.80d65895.chunk.js": "/store-sample-react/static/js/2.80d65895.chunk.js",
+    "static/js/2.80d65895.chunk.js.map": "/store-sample-react/static/js/2.80d65895.chunk.js.map",
+    "static/js/3.8738369e.chunk.js": "/store-sample-react/static/js/3.8738369e.chunk.js",
+    "static/js/3.8738369e.chunk.js.map": "/store-sample-react/static/js/3.8738369e.chunk.js.map",
+    "index.html": "/store-sample-react/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/store-sample-react/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.e876dca2.chunk.css.map": "/store-sample-react/static/css/main.e876dca2.chunk.css.map",
+    "static/js/2.80d65895.chunk.js.LICENSE.txt": "/store-sample-react/static/js/2.80d65895.chunk.js.LICENSE.txt",
+    "static/media/1.656d1a90.jpg": "/store-sample-react/static/media/1.656d1a90.jpg",
+    "static/media/2.a922a4a5.png": "/store-sample-react/static/media/2.a922a4a5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e923d09d.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.80d65895.chunk.js",
+    "static/css/main.e876dca2.chunk.css",
+    "static/js/main.a5fc71bb.chunk.js"
+  ]
+}
